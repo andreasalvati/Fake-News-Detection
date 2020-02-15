@@ -1,4 +1,4 @@
-# Predicting Coca Cola Earnings
+# Fake News Detection
 
 The objective is to apply NLP tecniques to classify fake news
 
